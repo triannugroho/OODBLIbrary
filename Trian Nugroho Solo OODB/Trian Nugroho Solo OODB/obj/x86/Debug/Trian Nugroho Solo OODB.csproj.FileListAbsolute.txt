@@ -1,0 +1,19 @@
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\bin\Debug\Trian Nugroho Solo OODB.exe.config
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\bin\Debug\Database1.mdf
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\bin\Debug\Database1_log.ldf
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\bin\Debug\Trian Nugroho Solo OODB.exe
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\bin\Debug\Trian Nugroho Solo OODB.pdb
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\obj\x86\Debug\Trian_Nugroho_Solo_OODB.ChangePassword.resources
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\obj\x86\Debug\Trian_Nugroho_Solo_OODB.Login.resources
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\obj\x86\Debug\Trian_Nugroho_Solo_OODB.Menu.resources
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\obj\x86\Debug\Trian_Nugroho_Solo_OODB.Properties.Resources.resources
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\obj\x86\Debug\Trian_Nugroho_Solo_OODB.Register.resources
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\obj\x86\Debug\Trian Nugroho Solo OODB.csproj.GenerateResource.Cache
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\obj\x86\Debug\Trian Nugroho Solo OODB.exe
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\obj\x86\Debug\Trian Nugroho Solo OODB.pdb
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\obj\x86\Debug\Trian Nugroho Solo OODB.csprojResolveAssemblyReference.cache
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\obj\x86\Debug\Trian_Nugroho_Solo_OODB.Buy_Book.resources
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\obj\x86\Debug\Trian_Nugroho_Solo_OODB.Master_Book.resources
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\obj\x86\Debug\Trian_Nugroho_Solo_OODB.Master_User.resources
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\obj\x86\Debug\Trian_Nugroho_Solo_OODB.View_Transaction.resources
+E:\Kuliah\Semester 4\Project\Trian Nugroho Solo OODB\Trian Nugroho Solo OODB\obj\x86\Debug\Trian_Nugroho_Solo_OODB.Genre1.resources
